@@ -29,5 +29,5 @@ pipeline {
             echo 'Pipeline failed!'
         }
     }
-}https://github.com/nithya0312-n/jenkins.git}
+}
 
